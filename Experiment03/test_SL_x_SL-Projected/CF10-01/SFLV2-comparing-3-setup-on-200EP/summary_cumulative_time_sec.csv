@@ -1,0 +1,4 @@
+run_label,source,final_cumulative_time_sec,best_cumulative_time_sec,sum_cumulative_time_sec,total_time_sec
+SFLV2 + Projected - CIFAR-10 α=0.1 - 200 Epochs - 5 Warm-up - Rebuild = 3.csv,SFLV2 + Projected - CIFAR-10 α=0.1 - 200 Epochs - 5 Warm-up - Rebuild = 3.csv,21006.270183316432,21006.270183316432,2110660.6855566753,21006.270183316432
+SFLV2 + Projected - CIFAR-10 α=0.1 - 200 Epochs - 10 Warm-up - Rebuild = 5.csv,SFLV2 + Projected - CIFAR-10 α=0.1 - 200 Epochs - 10 Warm-up - Rebuild = 5.csv,13249.460603605956,13249.460603605956,1339349.9702196978,13249.460603605956
+SFLV2 - CIFAR-10 α=0.1.csv,SFLV2 - CIFAR-10 α=0.1.csv,8902.205101048574,8902.205101048574,896222.8998608273,8902.205101048574

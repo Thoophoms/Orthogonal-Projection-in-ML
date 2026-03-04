@@ -1,0 +1,3 @@
+run_label,source,final_acc_test,best_acc_test,sum_acc_test,total_time_sec
+SFLV2 + Projected - CIFAR-10 α=0.1 - 200 Epochs - 5 Warm-up - 3 Rebuild.csv,SFLV2 + Projected - CIFAR-10 α=0.1 - 200 Epochs - 5 Warm-up - 3 Rebuild.csv,75.751953125,78.87627944946288,10664.846097385884,21006.270183316432
+SFLV2 - CIFAR-10 α=0.1 - 200 Epochs.csv,SFLV2 - CIFAR-10 α=0.1 - 200 Epochs.csv,73.18393058776856,77.48653011322021,12264.446713852882,13758.305640468374
