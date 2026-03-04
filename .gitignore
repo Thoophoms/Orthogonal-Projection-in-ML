@@ -1,0 +1,21 @@
+# datasets
+data/
+**/data/
+*.tar.gz
+
+# logs
+*.err
+*.out
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# generated outputs
+output/
+Results/
+Results_final/
+Test/
