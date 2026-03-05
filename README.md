@@ -84,8 +84,8 @@ This approach ensures that learning updates remain within the most informative s
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Thoophoms/split_learning_with_orthogonal.git
-cd split_learning_with_orthogonal
+git clone https://github.com/Thoophoms/Orthogonal-Projection-in-ML.git
+cd Orthogonal-Projection-in-ML
 
 2. Set Up Environment
 
@@ -94,8 +94,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 3. Run Training
-
-python train.py --epochs 10 --alpha 0.5 --dataset CIFAR10 --model resnet18
 ```
 
 ## Citation
@@ -103,7 +101,7 @@ python train.py --epochs 10 --alpha 0.5 --dataset CIFAR10 --model resnet18
 If you use or reference this work, please cite:
 
 > Thoop-hom Supannopaj, *Split Learning with Orthogonal Projection*, GitHub repository, 2025.  
-> [https://github.com/Thoophoms/split_learning_with_orthogonal](https://github.com/Thoophoms/split_learning_with_orthogonal)
+> [https://github.com/Thoophoms/split_learning_with_orthogonal](https://github.com/Thoophoms/Orthogonal-Projection-in-ML)
 
 
 ### Inspired by
