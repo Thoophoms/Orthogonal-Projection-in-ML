@@ -1,0 +1,4 @@
+run_label,source,final_acc_test,best_acc_test,sum_acc_test,total_time_sec
+SFLV2 + Projected - CIFAR-10 α=0.1 - Early Cut.csv,SFLV2 + Projected - CIFAR-10 α=0.1 - Early Cut.csv,45.88193712234497,47.65187230110168,7457.550842547416,21068.37425372284
+SFLV2 + Projected - CIFAR-10 α=0.1 - Mid Cut.csv,SFLV2 + Projected - CIFAR-10 α=0.1 - Mid Cut.csv,38.95036368370056,39.46996231079102,6626.47830773592,16574.60378371086
+SFLV2 + Projected - CIFAR-10 α=0.1 - Late Cut.csv,SFLV2 + Projected - CIFAR-10 α=0.1 - Late Cut.csv,38.08661093711853,38.40853967666626,6177.557241439819,14004.405948806554

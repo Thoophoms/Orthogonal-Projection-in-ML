@@ -1,0 +1,4 @@
+run_label,source,final_cumulative_time_sec,best_cumulative_time_sec,sum_cumulative_time_sec,total_time_sec
+SFLV2 + Projected - CIFAR-100 α=0.5 - Early Cut.csv,SFLV2 + Projected - CIFAR-100 α=0.5 - Early Cut.csv,28837.97919959016,28837.97919959016,2881669.604555648,28837.97919959016
+SFLV2 + Projected - CIFAR-100 α=0.5 - Mid Cut.csv,SFLV2 + Projected - CIFAR-100 α=0.5 - Mid Cut.csv,16800.44542840123,16800.44542840123,1687411.9457736723,16800.44542840123
+SFLV2 + Projected - CIFAR-100 α=0.5 - Late Cut.csv,SFLV2 + Projected - CIFAR-100 α=0.5 - Late Cut.csv,14110.720536241308,14110.720536241308,1416742.6000843951,14110.720536241308
