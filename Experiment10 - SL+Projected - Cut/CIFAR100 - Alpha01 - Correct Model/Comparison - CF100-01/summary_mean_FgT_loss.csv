@@ -1,0 +1,4 @@
+run_label,source,final_mean_FgT_loss,best_mean_FgT_loss,sum_mean_FgT_loss,total_time_sec,AUPF
+SL + Projected on CIFAR100 - 0.1 - early.csv,SL + Projected on CIFAR100 - 0.1 - early.csv,-0.4414366441755438,-0.942707818487416,-89.641102824292,19883.223228076473,1.0784639595651542
+SL + Projected on CIFAR100 - 0.1 - late.csv,SL + Projected on CIFAR100 - 0.1 - late.csv,-0.423134259842149,-0.9239718412098132,-127.80501161389367,18008.18467694521,0.0
+SL + Projected on CIFAR100 - 0.1 - mid.csv,SL + Projected on CIFAR100 - 0.1 - mid.csv,-0.2454759846979649,-0.6987812042236328,-58.29887768141513,22387.84162122477,0.2855310821929276

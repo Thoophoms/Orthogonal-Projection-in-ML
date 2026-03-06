@@ -1,0 +1,4 @@
+run_label,source,final_cumulative_time_sec,best_cumulative_time_sec,sum_cumulative_time_sec,total_time_sec
+SL + Projected on CIFAR10 - 0.1 - mid.csv,SL + Projected on CIFAR10 - 0.1 - mid.csv,24310.891746757552,24310.891746757552,2450026.6574424636,24310.891746757552
+SL + Projected on CIFAR10 - 0.1 - early.csv,SL + Projected on CIFAR10 - 0.1 - early.csv,23567.035715390928,23567.035715390928,2370374.551888967,23567.035715390928
+SL + Projected on CIFAR10 - 0.1 - late.csv,SL + Projected on CIFAR10 - 0.1 - late.csv,20222.635517065413,20222.635517065413,2030157.7001115214,20222.635517065413

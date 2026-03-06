@@ -1,0 +1,4 @@
+run_label,source,final_acc_test,best_acc_test,sum_acc_test,total_time_sec
+SL + Projected on CIFAR100 - 0.1 - early.csv,SL + Projected on CIFAR100 - 0.1 - early.csv,46.92786903381348,48.69342660903931,8359.472311347723,19883.223228076473
+SL + Projected on CIFAR100 - 0.1 - late.csv,SL + Projected on CIFAR100 - 0.1 - late.csv,30.942887926101683,30.942887926101683,4730.73443980217,18008.18467694521
+SL + Projected on CIFAR100 - 0.1 - mid.csv,SL + Projected on CIFAR100 - 0.1 - mid.csv,27.785560274124144,28.184267234802245,4916.365165233612,22387.84162122477
